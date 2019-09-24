@@ -7,6 +7,7 @@
 [assembly: AssemblyProduct("Some Product")]
 [assembly: AssemblyCopyright("Copyright © Some Company 2019")]
 [assembly: AssemblyTrademark("Some Company")]
+[assembly: AssemblyCulture("")]
 
 // Version information for an assembly consists of the following four values:
 //

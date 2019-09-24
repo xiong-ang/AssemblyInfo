@@ -47,13 +47,12 @@
       <Link>AssemblyInfo.cs</Link>
     </Compile>
     <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Properties\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\AssemblyInfoHelper\AssemblyInfoHelper.csproj">
       <Project>{207c3eea-5a87-4c7f-9994-9bc08194730f}</Project>
